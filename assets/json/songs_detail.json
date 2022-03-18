@@ -1,0 +1,62 @@
+[
+    {
+        "imageUrl": "assets/images/till-i-collapse.jpg",
+        "songName": "Till I Collapse",
+        "artistName": "Eminem",
+        "songDuration": "4:57"
+    },
+    {
+        "imageUrl": "assets/images/7_rings.png",
+        "songName": "7 Rings",
+        "artistName": "Ariana Grande",
+        "songDuration": "2:58"
+    },
+    {
+        "imageUrl": "assets/images/kill_this_love.jpg",
+        "songName": "Kill This Love",
+        "artistName": "BLACKPINk",
+        "songDuration": "3:09"
+    },
+    {
+        "imageUrl": "assets/images/excuses.jpg",
+        "songName": "Excuses",
+        "artistName": "AP Dhillon",
+        "songDuration": "2:56"
+    },
+    {
+        "imageUrl": "assets/images/thunder.jpg",
+        "songName": "Thunder",
+        "artistName": "Imagine Dragons",
+        "songDuration": "3:07"
+    },
+    {
+        "imageUrl": "assets/images/Oo_antava.jpg",
+        "songName": "Oo Antava",
+        "artistName": "Indravathi Chauhan",
+        "songDuration": "3:43"
+    },
+    {
+        "imageUrl": "assets/images/money.jpg",
+        "songName": "Money",
+        "artistName": "Lisa",
+        "songDuration": "2:48"
+    },
+    {
+        "imageUrl": "assets/images/boss.jpg",
+        "songName": "Boss",
+        "artistName": "Meet Bros Anijan",
+        "songDuration": "4:48"
+    },
+    {
+        "imageUrl": "assets/images/rap_god.jpg",
+        "songName": "Rap God",
+        "artistName": "Eminem",
+        "songDuration": "6:03"
+    },
+    {
+        "imageUrl": "assets/images/loca.jpg",
+        "songName": "Loca",
+        "artistName": "Honey Singh",
+        "songDuration": "3:30"
+    }
+]
